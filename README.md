@@ -2,11 +2,11 @@
 
 This is the monorepo for [`puppeteer-extra`](./packages/puppeteer-extra), a modular plugin framework for [`puppeteer`](https://github.com/puppeteer/puppeteer). :-)
 
-🌟 **For the main documentation, please head over to the [`puppeteer-extra`](./packages/puppeteer-extra) package.**
+🌟 🔥**For the main documentation, please head over to the [`puppeteer-extra`](./packages/puppeteer-extra) package.**
 
 We've also recently introduced support for Playwright, if you're interested in that head over to [`playwright-extra`](./packages/playwright-extra).
 
-## Monorepo
+## Monorepo🤫
 
 <details>
  <summary><strong>Contributing</strong></summary>
